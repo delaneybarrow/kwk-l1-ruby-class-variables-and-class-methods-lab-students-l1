@@ -1,4 +1,4 @@
-# class User 
+ # class User 
   
 #   def name=(username)
 #     @the_username = username
